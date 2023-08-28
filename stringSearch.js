@@ -7,6 +7,4 @@
     6. String includes()
     9. String startsWith()
     10. String endsWith()
-
-
 */
