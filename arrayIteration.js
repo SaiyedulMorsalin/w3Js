@@ -35,7 +35,7 @@ function myEvery(value, index, array) {
 
 
 const newNumber = numbers.findIndex(myEvery)
-console.log(newNumber);
-console.log(numbers);
-console.log(Array.from("ABCDEFGH"));
+// console.log(newNumber);
+// console.log(numbers);
+// console.log(Array.from("ABCDEFGH"));
 
